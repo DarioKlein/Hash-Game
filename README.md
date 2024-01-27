@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Jogo da velha é um projeto desenvolvido principalmente para entretenimento, mas também foi trabalhado com o objetivo de melhorar meus entendimentos sobre POO.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://hash-game-one.vercel.app/)
 
 ## Créditos
 
